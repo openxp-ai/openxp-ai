@@ -1,37 +1,30 @@
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="brand/openxp-wordmark-dark.svg">
+    <img alt="OpenXP" src="brand/openxp-wordmark-light.svg" width="240">
+  </picture>
+</p>
 
-# OpenXP
+<h3 align="center">A language for experiences</h3>
 
-### The open standard for immersive physical/digital experiences
+<p align="center">Not another show controller. A language for what guests should feel.</p>
 
-**Design for how humans feel** — then build it once, run it anywhere, and scale it everywhere.
-
-[**openxp.ai**](https://openxp.ai) · _preparing for public release_
-
-</div>
+<p align="center"><a href="https://openxp.ai"><b>openxp.ai</b></a> · <i>preparing for public release</i></p>
 
 ---
 
-OpenXP is an open standard and toolchain for orchestrating immersive experiences across physical and digital space — theme parks, museums, retail, and live events.
+One readable file captures creative intent, drives the show, and budgets every change before opening night.
 
-At its core is the OpenXP experience format: one immutable, human-readable blueprint for an experience, in a single .xp file. Author the creative intent once, and a deterministic runtime resolves it to real hardware — lighting, audio, projection, sensors, and human perception — the same way, every single night.
-
-### Design. Run. Scale.
-
-- **Design** — turn a brief into a working experience in a single .xp file, with AI-assisted authoring and live simulation.
-- **Run** — a deterministic runtime executes the experience on your own hardware. Runs standalone — no cloud required.
-- **Scale** — coordinate many venues from one place, when you're ready.
+An experience is written once, as a single `.xp` file: the journey, its moments, and what guests should feel. A verifier checks the file, a venue binds it to the devices in the room, and the runtime runs it the same way every night, on your own hardware, with no cloud required.
 
 ### What's coming
 
-The reference runtime, the connector fabric, the creative tools, and the format specification are being prepared for open release:
+- **The experience format specification**, open for anyone to build on (CC BY)
+- **Reference implementations**, open copyleft (LGPL and GPL)
+- **Design tools**, free to use, commercially too
 
-- 📐 **The experience format specification** — an open language anyone can build on (CC-BY)
-- ⚙️ **Reference implementations** — open-copyleft, the ffmpeg model (LGPL / GPL)
-- 🎨 **Design tools** — free to use, including commercially
-
-**Watch this space.** Star and follow to be here on day one, or visit [**openxp.ai**](https://openxp.ai) to join the beta.
+Star and follow to be here on day one, or visit [**openxp.ai**](https://openxp.ai) to join the beta.
 
 ---
 
-<sub>OpenXP™ is a trademark of OpenXP; applications filed in the UK, US, and EU.</sub>
+<sub>"OpenXP" is a trademark of Rewi.re.</sub>
